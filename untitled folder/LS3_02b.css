@@ -1,0 +1,30 @@
+body {
+    max-width: 50em;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #D6D6D6;
+    border: thick solid #2458B7;
+    border-radius: 1em;
+    padding: 40px;
+    margin: 10px auto;
+    }
+    h1, h2 {
+    background-color: #2458B7;
+    color: #D6D6D6;
+    border-radius:1em;
+    }
+    p {
+    color: #122240;
+    }
+    a {
+    background-color:#638FE0;
+    color: #122240;
+    border-radius:1em;
+    padding: 5px;
+    }
+    tr{
+    background-color: #2458B7;
+    color: #D6D6D6;
+    border-radius: 1em;
+    padding: 5px;
+    }
